@@ -25,3 +25,5 @@ rl.question('Informe a nota do aluno (0 a 10): ', (resposta) => {
    }
    rl.close(); // Encerra a leitura no terminal
 });
+
+//
